@@ -1,0 +1,17 @@
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll.config
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Parcial2.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Parcial2.csproj.CopyComplete
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\RM\Desktop\parcial\ModuloSeguridadHSC\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
